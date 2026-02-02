@@ -13,8 +13,6 @@ Implementação de um **Sistema Integrado de Cadeia de Restaurantes**, desenvolv
 - Tiago Silva Figueiredo (a106856) — [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 - Inês Ferreira Ribeiro (a104704) — [inesferribeiro](https://github.com/inesferribeiro)
 
-### Nota Final: 17 / 20 ⭐️
-
 ## Dependências
 
 ### Base de Dados
@@ -81,8 +79,6 @@ You can consult:
 - Luís António Peixoto Soares (a106932) — [luis7788](https://github.com/luis7788)
 - Tiago Silva Figueiredo (a106856) — [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 - Inês Ferreira Ribeiro (a104704) — [inesferribeiro](https://github.com/inesferribeiro)
-
-### Final Grade: 17 / 20 ⭐️
 
 ## Dependencies
 
