@@ -66,7 +66,7 @@ make clean
 ```
 
 # DSS (Software Systems Development) (English)
-Implementation of an **Integrated Restaurant Chain System**, developed within the scope of the *Software Systems Development* course at the **University of Minho**.
+Implementation of an **Integrated Restaurant Chain System**, developed within the scope of the *Software Systems Development* course at the **University of Minho**
 
 You can consult:
 - the [project statement](Enunciado.pdf);
