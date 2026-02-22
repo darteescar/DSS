@@ -7,6 +7,8 @@ Implementação de um **Sistema Integrado de Cadeia de Restaurantes**, desenvolv
 - o relatório da [Fase 1](fase-1/Relatorio-fase-1.pdf);
 - o relatório da [Fase 2](fase-2/Relatorio-fase-2.pdf).
 
+### Nota Final: 17 / 20 ⭐️
+
 ### Membros do Grupo
 - Duarte Escairo Brandão Reis Silva (a106936) — [darteescar](https://github.com/darteescar)
 - Luís António Peixoto Soares (a106932) — [luis7788](https://github.com/luis7788)
@@ -67,6 +69,8 @@ make clean
 
 # DSS (Software Systems Development) (English)
 Implementation of an **Integrated Restaurant Chain System**, developed within the scope of the *Software Systems Development* course at the **University of Minho**.
+
+### Nota Final: 17 / 20 ⭐️
 
 You can consult:
 - the [project statement](Enunciado.pdf);
